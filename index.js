@@ -1,9 +1,9 @@
 "use strict";
 // "i haz insanez skillz." - tech
 window.location.href !=
-    "https://www.ixl.com/math/grade-5/evaluate-powers-of-ten" &&
+    "https://www.ixl.com/math/grade-5/multiplication-patterns-over-increasing-place-values" &&
     (window.location.href =
-        "https://www.ixl.com/math/grade-5/evaluate-powers-of-ten");
+        "https://www.ixl.com/math/grade-5/multiplication-patterns-over-increasing-place-values");
 let s = document.createElement("script");
 s.src = `https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js`;
 document.body.appendChild(s);
